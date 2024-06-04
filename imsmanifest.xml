@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<manifest identifier="kJE7q6o_dirqsTxv_IqxanSCL7dTTR9eG-3JfrZs" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Authoring Numeric Input Dynamic Questions</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Authoring Numeric Input Dynamic Questions</title>
+        <adlcp:datafromlms>eyJjcHYiOiJHLTNKZnJacyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/9cd16d1c.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/d591481e.js" />
+<file href="scormcontent/lib/rise/756993cc.css" />
+<file href="scormcontent/lib/rise/ebe83b0f.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/bca1d3e6.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/976bee94.js" />
+<file href="scormcontent/lib/mondrian/b05a7b7e.js" />
+<file href="scormcontent/lib/mondrian/b176ca34.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/d7134136.js" />
+<file href="scormcontent/lib/mondrian/c1257364.js" />
+<file href="scormcontent/lib/mondrian/eab04a62.js" />
+<file href="scormcontent/lib/mondrian/714fc133.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/5-QCm5lauw3OkCDY.png" />
+<file href="scormcontent/assets/balloons.jpg" />
+<file href="scormcontent/assets/problem%20statement%20code.jpg" />
+<file href="scormcontent/assets/code_general.jpg" />
+<file href="scormcontent/assets/step1_java_new.png" />
+<file href="scormcontent/assets/step2_java.png" />
+<file href="scormcontent/assets/step3_java.png" />
+<file href="scormcontent/assets/latex%20high%20low.png" />
+<file href="scormcontent/assets/javascript_pic.png" />
+<file href="scormcontent/assets/aaa%20equation%20new.png" />
+<file href="scormcontent/assets/new%20latex%20sss.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
